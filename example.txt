@@ -1,2 +1,4 @@
 welcome to git and gitup
 hello
+hi
+java
