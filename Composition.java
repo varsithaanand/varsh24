@@ -8,9 +8,10 @@ System.out.println("Capacity");
 }
 class Mobile
 {
+Battery b;
 Mobile() 
 {
-Battery b=new Battery();
+b=new Battery();
 b.display();
 }
 }
