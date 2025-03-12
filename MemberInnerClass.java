@@ -12,4 +12,5 @@ public static void main(String[] args)
 {
 Computer c=new Computer();
 Computer.Processor p=c.new Processor();
+p.display();
 }
